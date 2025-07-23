@@ -26,3 +26,11 @@
 .footer-text{
     color: #6B7280;
 }
+
+
+/* hover */
+button:hover{
+    background-color: cadetblue;
+    transition: 0.4s;
+    color: #E95A08;
+}
