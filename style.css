@@ -44,3 +44,7 @@ button:hover{
     transition: 0.4s;
     color: #E95A08;
 }
+
+.h-link:hover{
+    color: #E95A08;
+}
